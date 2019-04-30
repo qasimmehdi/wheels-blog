@@ -1,0 +1,199 @@
+/* External css */
+
+.navbar-brand {
+  padding: 0px;
+}
+.navbar-brand>img {
+  height: 50px;
+  padding: 2px 5px 2px 5px;
+  width: auto;
+}
+
+.navbar-text{
+  margin-right: 25px !important;
+  margin-left: 0px !important;
+}
+
+
+
+.carousel-inner{
+  width:100%;
+  max-height: 400px !important;
+}
+
+.carousel-inner > .item > img {
+  
+  max-height: 400px !important;
+}
+.img {
+  max-height: 200px !important;
+}
+.text1 {
+  
+  height: 25px;
+  overflow: hidden;
+  
+  width: 100%;
+}
+.text {
+  line-height: 1.5em;
+  height: 3em;
+  overflow: hidden;
+}
+.remove-border-thumbnail > div > .thumbnail {
+  border: 0px !important;
+}
+.footer{
+
+  color: white;
+  background-color: #2A2730;
+}
+.text-right {
+  text-align: right;
+}
+.footer .social {
+  position: absolute;
+  right: 0px;
+}
+.slider {
+  
+  font-size: 20px;
+  position: sticky;
+}
+.remove-border-panel {
+  border: 0px !important;
+}
+.remove-panel-padding {
+  padding: 5px;
+}
+.img-padding {
+  padding-bottom: 15px;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.winnner-text {
+  position: absolute;
+  top: 5px;
+  padding: 5px;
+  background-color: #fff;
+  color: black;
+  font-weight: bold;
+  left: 20px;
+}
+.img-border{
+  padding: 5px 0px 5px 0px;
+}
+.brand-padding {
+  padding-top: 20px;
+  padding-bottom: 25px;
+}
+.act {
+  padding-top: 3px;
+}
+.padd {
+  padding-top: 10px;
+  background-color: #2A2730;
+}
+.newsletter-or {
+  display: inline;
+  padding-left: 5px;
+}
+.soc {
+  color: #fff;
+  background-color: #3b5998;
+}
+.form-padding {
+  padding-bottom: 50px;
+}
+.footer-icons {
+  font-size: 48px;
+}
+.winner-padd {
+  padding-right: 0px;
+  padding-left: 10px;
+}
+.wheels-nav-text {
+  padding-left: 5px;
+}
+.winnner-text2 {
+  position: absolute;
+  top: 65px;
+  padding: 5px;
+  background-color: #fff;
+  color: black;
+  font-weight: bold;
+  left: 20px;
+}
+.winnner-text3 {
+  position: absolute;
+  top: 90px;
+  padding: 5px;
+  background-color: #fff;
+  color: black;
+  font-weight: bold;
+  left: 20px;
+}
+
+.winnner-text4 {
+  position: absolute;
+  top: 142px;
+  padding: 5px;
+  background-color: #fff;
+  color: black;
+  font-weight: bold;
+  left: 20px;
+}
+
+.winnner-text5 {
+  position: absolute;
+  top: 133px;
+  padding: 5px;
+  background-color: #fff;
+  color: black;
+  font-weight: bold;
+  left: 20px;
+}
+
+.winnner-text6 {
+  position: absolute;
+  top: 255px;
+  padding: 5px;
+  background-color: #fff;
+  color: black;
+  font-weight: bold;
+  left: 20px;
+}
+.para {
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.date {
+  font-size: 16px;
+  font-family: NewsGothicNo2W01,Helvetica,Arial,"sans-serif";
+  font-weight: 700;
+}
+.heading {
+  font-weight: 700;
+}
+.bmw-padd {
+  padding: 5px 0px 10px 0px;
+}
+
+.blue{
+  color: blue;
+}
+
+.gall {
+  padding: 10px 0px 10px 0px;
+}
+
+.about-para{
+  font-size: 20px;
+}
+
+.news{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
